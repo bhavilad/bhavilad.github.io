@@ -1,0 +1,97 @@
+.1_177 { 
+	overflow:hidden;
+}.e1_177 { 
+	background-color:rgba(244.0000006556511, 244.0000006556511, 244.0000006556511, 1);
+	width:1728px;
+	height:1117px;
+	position:absolute;
+}.e1_178 { 
+	width:1728px;
+	height:1117px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/rectangle.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e1_179 { 
+	width:1728px;
+	height:1117px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/rectangle.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e1_180 { 
+	background-color:rgba(40.37499949336052, 40.37499949336052, 40.37499949336052, 1);
+	width:439px;
+	height:871px;
+	position:absolute;
+	left:852px;
+	top:123px;
+}.e1_181 { 
+	color:rgba(0, 0, 0, 1);
+	width:662px;
+	height:186px;
+	position:absolute;
+	left:159px;
+	top:212px;
+	font-family:Laila;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:0;
+}.e1_182 { 
+	transform: rotate(-0.0000025044780654876642deg);
+	position:absolute;
+	left:136px;
+	top:206px;
+}.1_182 { 
+	border:3px solid rgba(0, 0, 0, 1);
+}.e1_183 { 
+	color:rgba(0, 0, 0, 1);
+	width:679px;
+	height:757px;
+	position:absolute;
+	left:159px;
+	top:422px;
+	text-align:left;
+	font-size:28px;
+	letter-spacing:0;
+}.e1_184 { 
+	width:677.7374877929688px;
+	height:602.23974609375px;
+	position:absolute;
+	left:933.7822265625px;
+	top:258.18359375px;
+}.e1_186 { 
+	width:277.80780029296875px;
+	height:602.2394409179688px;
+	position:absolute;
+	left:399.9296875px;
+	top:0.000316619873046875px;
+}.e1_189 { 
+	width:277.80780029296875px;
+	height:602.2394409179688px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/place_your_design.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e1_191 { 
+	width:277.80780029296875px;
+	height:602.2394409179688px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e1_194 { 
+	width:277.80780029296875px;
+	height:602.2394409179688px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/place_your_design.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
