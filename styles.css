@@ -2,8 +2,8 @@
 	overflow:hidden;
 }.e1_78 { 
 	background-color:rgba(244.0000006556511, 244.0000006556511, 244.0000006556511, 1);
-	width:1728px;
-	height:1117px;
+	width:1280px;
+	height:1070px;
 	position:absolute;
 }.e1_79 { 
 	width:1728px;
@@ -18,17 +18,17 @@
 	width:1728px;
 	height:1117px;
 	position:absolute;
-	left:0px;
-	top:0px;
+	left:-224px;
+	top:-24px;
 	background-image:url(images/rectangle.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }.e1_81 { 
 	background-color:rgba(255, 255, 255, 1);
-	width:679px;
-	height:882px;
+	width:605px;
+	height:851px;
 	position:absolute;
-	left:131px;
+	left:57px;
 	top:118px;
 	border-top-left-radius:70px;
 	border-top-right-radius:70px;
@@ -39,7 +39,7 @@
 	width:185px;
 	height:39px;
 	position:absolute;
-	left:279px;
+	left:147px;
 	top:818px;
 	font-family:Laila;
 	text-align:left;
@@ -50,7 +50,7 @@
 	width:563px;
 	height:47px;
 	position:absolute;
-	left:211px;
+	left:80px;
 	top:629px;
 	font-family:Laila;
 	text-align:left;
@@ -58,10 +58,10 @@
 	letter-spacing:0;
 }.e1_86 { 
 	color:rgba(0, 0, 0, 1);
-	width:833px;
-	height:37px;
+	width:560px;
+	height:55px;
 	position:absolute;
-	left:877px;
+	left:693px;
 	top:321px;
 	font-family:Laila;
 	text-align:left;
@@ -69,44 +69,44 @@
 	letter-spacing:0;
 }.e1_87 { 
 	color:rgba(0, 0, 0, 1);
-	width:422px;
-	height:37px;
+	width:560px;
+	height:35px;
 	position:absolute;
-	left:877px;
-	top:384px;
+	left:694px;
+	top:411px;
 	font-family:Laila;
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
 }.e1_88 { 
 	color:rgba(0, 0, 0, 1);
-	width:601px;
-	height:37px;
+	width:560px;
+	height:55px;
 	position:absolute;
-	left:877px;
-	top:447px;
+	left:693px;
+	top:465px;
 	font-family:Laila;
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
 }.e1_89 { 
 	color:rgba(0, 0, 0, 1);
-	width:305px;
-	height:37px;
+	width:560px;
+	height:35px;
 	position:absolute;
-	left:877px;
-	top:510px;
+	left:693px;
+	top:549px;
 	font-family:Laila;
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
 }.e1_90 { 
 	color:rgba(0, 0, 0, 1);
-	width:262px;
-	height:37px;
+	width:560px;
+	height:35px;
 	position:absolute;
-	left:877px;
-	top:573px;
+	left:693px;
+	top:601px;
 	font-family:Laila;
 	text-align:left;
 	font-size:24px;
@@ -116,7 +116,7 @@
 	width:236px;
 	height:39px;
 	position:absolute;
-	left:279px;
+	left:147px;
 	top:726px;
 	font-family:Laila;
 	text-align:left;
@@ -124,34 +124,31 @@
 	letter-spacing:0;
 }.e1_92 { 
 	color:rgba(0, 0, 0, 1);
-	width:701px;
-	height:37px;
+	width:560px;
+	height:55px;
 	position:absolute;
-	left:877px;
-	top:636px;
+	left:693px;
+	top:650px;
 	font-family:Laila;
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e1_93 { 
-	transform: rotate(180deg);
-	width:285px;
-	height:285px;
+}.e26_2 { 
+	color:rgba(0, 0, 0, 1);
+	width:560px;
+	height:55px;
 	position:absolute;
-	left:496px;
-	top:212px;
-	border-top-left-radius:156.5px;
-	border-top-right-radius:156.5px;
-	border-bottom-left-radius:156.5px;
-	border-bottom-right-radius:156.5px;
-	background-image:url(images/rectangle_5659.png);
-	background-repeat:no-repeat;
-	background-size:cover;
+	left:693px;
+	top:738px;
+	font-family:Laila;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
 }.e1_94 { 
 	width:285px;
 	height:285px;
 	position:absolute;
-	left:211px;
+	left:137px;
 	top:212px;
 	border-top-left-radius:339.5px;
 	border-top-right-radius:339.5px;
@@ -165,7 +162,7 @@
 	width:155px;
 	height:93px;
 	position:absolute;
-	left:916px;
+	left:724px;
 	top:183px;
 	font-family:Laila;
 	text-align:left;
@@ -174,7 +171,7 @@
 }.e1_96 { 
 	transform: rotate(-0.0000025044780654876642deg);
 	position:absolute;
-	left:893px;
+	left:708px;
 	top:176px;
 }.1_96 { 
 	border:3px solid rgba(0, 0, 0, 1);
@@ -183,7 +180,7 @@
 	width:149px;
 	height:39px;
 	position:absolute;
-	left:279px;
+	left:147px;
 	top:905px;
 	font-family:Laila;
 	text-align:left;
@@ -193,7 +190,7 @@
 	width:50px;
 	height:50px;
 	position:absolute;
-	left:215px;
+	left:90px;
 	top:898px;
 	background-image:url(images/icons8_linkedin_logo_50_1.png);
 	background-repeat:no-repeat;
@@ -202,7 +199,7 @@
 	width:50px;
 	height:50px;
 	position:absolute;
-	left:215px;
+	left:90px;
 	top:813px;
 	background-image:url(images/icons8_call_50__1_.png);
 	background-repeat:no-repeat;
@@ -211,7 +208,7 @@
 	width:50px;
 	height:50px;
 	position:absolute;
-	left:215px;
+	left:89px;
 	top:720px;
 	background-image:url(images/icons8_email_50.png);
 	background-repeat:no-repeat;
@@ -221,7 +218,7 @@
 	width:378px;
 	height:93px;
 	position:absolute;
-	left:211px;
+	left:79px;
 	top:532px;
 	font-family:Laila;
 	text-align:left;
