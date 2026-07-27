@@ -1,227 +1,22 @@
-.1_78 { 
-	overflow:hidden;
-}.e1_78 { 
-	background-color:rgba(244.0000006556511, 244.0000006556511, 244.0000006556511, 1);
-	width:1280px;
-	height:1070px;
-	position:absolute;
-}.e1_79 { 
-	width:1728px;
-	height:1117px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	background-image:url(images/rectangle.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e1_80 { 
-	width:1728px;
-	height:1117px;
-	position:absolute;
-	left:-224px;
-	top:-24px;
-	background-image:url(images/rectangle.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e1_81 { 
-	background-color:rgba(255, 255, 255, 1);
-	width:605px;
-	height:851px;
-	position:absolute;
-	left:57px;
-	top:118px;
-	border-top-left-radius:70px;
-	border-top-right-radius:70px;
-	border-bottom-left-radius:70px;
-	border-bottom-right-radius:70px;
-}.e1_83 { 
-	color:rgba(0, 0, 0, 1);
-	width:185px;
-	height:39px;
-	position:absolute;
-	left:147px;
-	top:818px;
-	font-family:Laila;
-	text-align:left;
-	font-size:25px;
-	letter-spacing:0;
-}.e1_85 { 
-	color:rgba(0, 0, 0, 1);
-	width:563px;
-	height:47px;
-	position:absolute;
-	left:80px;
-	top:629px;
-	font-family:Laila;
-	text-align:left;
-	font-size:30px;
-	letter-spacing:0;
-}.e1_86 { 
-	color:rgba(0, 0, 0, 1);
-	width:560px;
-	height:55px;
-	position:absolute;
-	left:693px;
-	top:321px;
-	font-family:Laila;
-	text-align:left;
-	font-size:24px;
-	letter-spacing:0;
-}.e1_87 { 
-	color:rgba(0, 0, 0, 1);
-	width:560px;
-	height:35px;
-	position:absolute;
-	left:694px;
-	top:411px;
-	font-family:Laila;
-	text-align:left;
-	font-size:24px;
-	letter-spacing:0;
-}.e1_88 { 
-	color:rgba(0, 0, 0, 1);
-	width:560px;
-	height:55px;
-	position:absolute;
-	left:693px;
-	top:465px;
-	font-family:Laila;
-	text-align:left;
-	font-size:24px;
-	letter-spacing:0;
-}.e1_89 { 
-	color:rgba(0, 0, 0, 1);
-	width:560px;
-	height:35px;
-	position:absolute;
-	left:693px;
-	top:549px;
-	font-family:Laila;
-	text-align:left;
-	font-size:24px;
-	letter-spacing:0;
-}.e1_90 { 
-	color:rgba(0, 0, 0, 1);
-	width:560px;
-	height:35px;
-	position:absolute;
-	left:693px;
-	top:601px;
-	font-family:Laila;
-	text-align:left;
-	font-size:24px;
-	letter-spacing:0;
-}.e1_91 { 
-	color:rgba(0, 0, 0, 1);
-	width:236px;
-	height:39px;
-	position:absolute;
-	left:147px;
-	top:726px;
-	font-family:Laila;
-	text-align:left;
-	font-size:25px;
-	letter-spacing:0;
-}.e1_92 { 
-	color:rgba(0, 0, 0, 1);
-	width:560px;
-	height:55px;
-	position:absolute;
-	left:693px;
-	top:650px;
-	font-family:Laila;
-	text-align:left;
-	font-size:24px;
-	letter-spacing:0;
-}.e26_2 { 
-	color:rgba(0, 0, 0, 1);
-	width:560px;
-	height:55px;
-	position:absolute;
-	left:693px;
-	top:738px;
-	font-family:Laila;
-	text-align:left;
-	font-size:24px;
-	letter-spacing:0;
-}.e1_94 { 
-	width:285px;
-	height:285px;
-	position:absolute;
-	left:137px;
-	top:212px;
-	border-top-left-radius:339.5px;
-	border-top-right-radius:339.5px;
-	border-bottom-left-radius:339.5px;
-	border-bottom-right-radius:339.5px;
-	background-image:url(images/rectangle.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e1_95 { 
-	color:rgba(0, 0, 0, 1);
-	width:155px;
-	height:93px;
-	position:absolute;
-	left:724px;
-	top:183px;
-	font-family:Laila;
-	text-align:left;
-	font-size:60px;
-	letter-spacing:0;
-}.e1_96 { 
-	transform: rotate(-0.0000025044780654876642deg);
-	position:absolute;
-	left:708px;
-	top:176px;
-}.1_96 { 
-	border:3px solid rgba(0, 0, 0, 1);
-}.e1_82 { 
-	color:rgba(0, 0, 0, 1);
-	width:149px;
-	height:39px;
-	position:absolute;
-	left:147px;
-	top:905px;
-	font-family:Laila;
-	text-align:left;
-	font-size:25px;
-	letter-spacing:0;
-}.e1_97 { 
-	width:50px;
-	height:50px;
-	position:absolute;
-	left:90px;
-	top:898px;
-	background-image:url(images/icons8_linkedin_logo_50_1.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e1_174 { 
-	width:50px;
-	height:50px;
-	position:absolute;
-	left:90px;
-	top:813px;
-	background-image:url(images/icons8_call_50__1_.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e1_175 { 
-	width:50px;
-	height:50px;
-	position:absolute;
-	left:89px;
-	top:720px;
-	background-image:url(images/icons8_email_50.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e1_84 { 
-	color:rgba(0, 0, 0, 1);
-	width:378px;
-	height:93px;
-	position:absolute;
-	left:79px;
-	top:532px;
-	font-family:Laila;
-	text-align:left;
-	font-size:60px;
-	letter-spacing:0;
-}
+body{
+    font-family: Arial;
+    margin:0;
+}
+
+nav{
+    position:fixed;
+    width:100%;
+    background:#222;
+    padding:20px;
+}
+
+nav a{
+    color:white;
+    margin-right:20px;
+    text-decoration:none;
+}
+
+section{
+    height:100vh;
+    padding:100px 50px;
+}
